@@ -1,6 +1,6 @@
 ## Overview
 
-Solution to Function Programming Exercise Advanced with functionalities represented as SUT of UFCFVQ-15-M Reflective Report. This report details my learning experience and difficulties that I came across while doing two programming activities which are based on data analysis, function definitions in Python.
+This repository contains the code and supporting materials for a series of programming tasks completed as part of a reflective report for a python programming course. The report documents my learning journey and the challenges faced during the completion of two programming tasks related to data analysis and function definitions in Python.
 
 ## Contents
 
